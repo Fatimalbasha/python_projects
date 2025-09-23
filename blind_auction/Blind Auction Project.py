@@ -40,10 +40,3 @@ for bidder in auction_info:
 
 print(f"The winner is {winner} with a bid of ${highest_bid}")
 
-
-
-
-
-#       This code can be modified with these two tasks to make it better:
-#       1- what if there is a tie? 
-#       2- what if there is two or more names that are the same?  
